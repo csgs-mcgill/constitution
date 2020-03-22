@@ -63,7 +63,7 @@ k) Maintain and transmit the records and documentation of the Association’s ac
 l) Verify adherence by the Association to all required regulations concerning the activities of a GSA as specified by the PGSS.
 
 ### Chair
-Further to the joint responsibilities of the Executive, the Secretariat shall:    
+Further to the joint responsibilities of the Executive, the Chair shall:    
 a) Be the designated correspondent of the Association to the Membership including:    
   &ensp;i) notification of all of the Association’s meetings/assemblies; and    
   &ensp;ii) distribution of meeting materials (e.g. agendas).    
@@ -76,7 +76,7 @@ c) Maintain and organize up to date electronic (where appropriate) and paper (wh
   &ensp;iiiii) The Association’s operations manuals.    
 
 ### Vice President Academic
-Further to the joint responsibilities of the Executive, the VP Academics shall:    
+Further to the joint responsibilities of the Executive, the VP Academic shall:    
 a) Plan and execute academic events    
 b) Producing and maintaining a list of alumni    
 c) Produce and maintain a comprehensive list of facilities and procedures for aiding Members in obtaining
@@ -84,7 +84,7 @@ c) Produce and maintain a comprehensive list of facilities and procedures for ai
 d) Plan and execute social events and activities when the Association does not have a Vice President Social
 
 ### Vice President Social
-Further to the joint responsibilities of the Executive, the VP Socials shall:    
+Further to the joint responsibilities of the Executive, the VP Social shall:    
 a) Plan and execute social events and activities    
 b) Ensure that social events follow all applicable rules and laws    
 c) Ensure all events are advertised to the Membership    
