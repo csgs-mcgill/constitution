@@ -1,5 +1,4 @@
-# Constitution
-Constitution of the Computer Science Graduate Society
+# Constitution of the Computer Science Graduate Society
 
 ## Article I — Name
 The name of this organization shall be (include acronym): Computer Science Graduate Society (CSGS)    
